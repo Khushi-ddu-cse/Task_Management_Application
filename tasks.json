@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1791021848692",
+    "userId": "1791021826425",
+    "title": "Task 1",
+    "description": "Complete the details",
+    "priority": "Medium",
+    "status": "Completed",
+    "dueDate": "2026-10-04",
+    "createdAt": "2026-10-03T10:04:08.692Z",
+    "updatedAt": "2026-10-03T10:04:44.539Z"
+  },
+  {
+    "id": "1791021872698",
+    "userId": "1791021826425",
+    "title": "Task 2",
+    "description": "Complete it",
+    "priority": "Low",
+    "status": "Pending",
+    "dueDate": "2026-10-04",
+    "createdAt": "2026-10-03T10:04:32.698Z",
+    "updatedAt": "2026-10-03T10:04:32.698Z"
+  }
+]
